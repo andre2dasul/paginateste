@@ -1,0 +1,74 @@
+<html>
+<head>
+<title> Paginas de testes HTML
+</title>
+</head>
+<body>
+<center>
+
+<br>
+<br>
+
+<table border=1>
+<caption> Teste de tabela </caption>
+<tr>
+<th> numeros </th>
+<td> numero 1 </td>
+<td> numero 2 </td>
+<td> numero 3 </td>
+</tr>
+<tr>
+<th> letras </th>
+<td> letra a </td>
+<td> letra b </td>
+<td> letra c </td>
+</tr>
+</table>
+
+<br>
+<br>
+
+<p> Tabelas são usadas para organizar dados.
+
+<br>
+<br>
+
+<h1> Grande
+<h2> Não tão grande
+<h3> Menor que o anterior 
+<h4> Pequeno
+
+<br>
+<br>
+
+<form>
+<table>
+<tr>
+<td>
+Nome:</td>
+<td>   
+<input type="text" name="Nome"><br></td></tr>
+<tr>
+<td>
+Sobrenome:</td>
+<td>
+<input type="text" name="Sobrenome"><br></td></tr>
+<tr>
+<td>
+<input type="radio" name="gênero" value="masculino" checked> Masculino <td></td></td></tr>
+<tr>
+<td>
+<input type="radio" name="gênero" value="feminino"> Feminino </td><td></td></tr>
+<tr>
+<td>
+<input type="radio" name="gênero" value="outro"> Outro</td> </td><td>
+<input type="text" name="outro"><br></tr>
+</table>
+<input type="submit" name="enviar" value="Enviar">
+</form>
+
+<a href="https://www.googleadservices.com/pagead/aclk?sa=L&ai=C0JlgaH1LWoM0zZiYBOnqgvAHscCNq0_b8_-wowZkEAEgj8DuImDN8O6ArAOgAdWi3poDyAECqQJA9n8nYEKUPuACAKgDAcgDmQSqBMcBT9CMTaxibDMZSuDJZHC5NukW-2N1Ybpj5BEBP5fkB7epmQvi2dQVmr4DPFJww3ASUSo9oOAQ3hS2Q190VAVWLdkQqhnCqqgXvEotUzRHrmRkLB2Phff5foLed4zDYNRYZy6lfzb78EK-9zxDHudN7JO-RV2ShpfgMeDRmjY_FJAVUD0W71-pJObsO8ZnetjYCm8bt8JWTpTifpRtw-Wpy9MrygSQG7sd840_gR10ldRPXtkPg0avzVkRYWP1la-DfdCr7wv6J-AEAaAGAoAHk92hZagH1ckbqAemvhvYBwHSCAcIgGEQARgBsQkjW_RWAxpK8oAKA9gTAw&num=1&cid=CAASEuRof0E2pTy80N0uSHHGFydoFQ&sig=AOD64_0CvQQenRxjh0CvvsjNjWsjZRogxw&client=ca-pub-1993393738408076&nm=11&nx=164&ny=31&mb=2&adurl=http://studiobossa.com.br/">
+<img src="https://tpc.googlesyndication.com/simgad/13934313308317630632" alt="publicidade">
+</a>
+</body>
+</html>
